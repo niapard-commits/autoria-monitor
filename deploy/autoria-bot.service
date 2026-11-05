@@ -1,0 +1,15 @@
+[Unit]
+Description=AutoRia Monitor bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=bot
+Environment=PYTHONUNBUFFERED=1
+WorkingDirectory=/home/bot/autoria-bot
+ExecStart=/home/bot/autoria-bot/venv/bin/python bot.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
