@@ -118,4 +118,4 @@ Tested in production: the bot came back online 16 seconds after a server reboot.
 
 ---
 
-**Need a similar bot for another site?** Order or ask a question via [my Fiverr gig](https://www.fiverr.com/serhii_bots/build-a-custom-python-telegram-bot).
+**Need a similar bot for another site?** Order or ask a question via [my Fiverr gig](https://www.fiverr.com/serhii_bots/build-a-website-monitoring-bot-with-telegram-alerts).
