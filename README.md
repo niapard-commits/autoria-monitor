@@ -11,6 +11,7 @@ Built to a real Upwork job post: *"a bot that monitors a website for new listing
 and sends alerts via Telegram. Reliable, simple, minimal ongoing maintenance."*
 
 <p align="center"><img src="docs/demo.gif" width="300" alt="Adding a search and receiving a new-car alert"></p>
+<p align="center"><a href="docs/demo.mp4"><b>▶ Watch the 60-second demo video</b></a></p>
 
 ![Link check, statistics and a new-car card](docs/screenshots.png)
 
